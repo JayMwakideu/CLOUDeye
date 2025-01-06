@@ -94,6 +94,17 @@ Scan results are exported in **JSON** and **CSV** formats for detailed analysis:
 
 ![csv](src/Screenshot2.png)
 ---
+
+# GUI exe Version
+
+Below is a preview of the graphical interface of the CLOUDeye Scanner.
+
+<p align="center">
+    <img src="src/pg1.png" alt="GUI Screenshot 1" width="30%" />
+    <img src="src/pg2.png" alt="GUI Screenshot 2" width="30%" />
+    <img src="src/pg3.png" alt="GUI Screenshot 3" width="30%" />
+</p>
+---
 ## Limitations
 - Only scans servers using HTTP/HTTPS protocols.
 - Content analysis is based on predefined patterns and may not detect custom configurations.
