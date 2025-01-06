@@ -83,6 +83,21 @@ To use an HTTP proxy:
 ```
 
 ---
+### Exported Results
+Scan results are exported in **JSON** and **CSV** formats for detailed analysis:
+
+## JSON File
+
+![json](src/Screenshot2.png)
+
+## CSV File
+
+![csv](src/Screenshot3.png)
+---
+## Limitations
+- Only scans servers using HTTP/HTTPS protocols.
+- Content analysis is based on predefined patterns and may not detect custom configurations.
+---
 
 ## Contribution
 Feel free to contribute to the project by submitting issues, feature requests, or pull requests on the GitHub repository.
