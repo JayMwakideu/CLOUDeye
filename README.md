@@ -104,7 +104,8 @@ Below is a preview of the graphical interface of the CLOUDeye Scanner.
     <img src="src/pg2.png" alt="GUI Screenshot 2" width="30%" />
     <img src="src/pg3.png" alt="GUI Screenshot 3" width="30%" />
 </p>
----
+
+
 ## Limitations
 - Only scans servers using HTTP/HTTPS protocols.
 - Content analysis is based on predefined patterns and may not detect custom configurations.
