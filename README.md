@@ -105,6 +105,10 @@ Below is a preview of the graphical interface of the CLOUDeye Scanner.
     <img src="src/pg3.png" alt="GUI Screenshot 3" width="30%" />
 </p>
 
+🎯 **Download the GUI Version**  
+[Click here to download the CLOUDeye Scanner GUI executable](https://drive.google.com/file/d/1gjXdIOWQAHCwxR84rxgZij29ySJ-T3OO/view?usp=sharing)
+
+
 
 ## Limitations
 - Only scans servers using HTTP/HTTPS protocols.
