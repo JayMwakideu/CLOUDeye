@@ -88,11 +88,11 @@ Scan results are exported in **JSON** and **CSV** formats for detailed analysis:
 
 ## JSON File
 
-![json](src/Screenshot2.png)
+![json](src/Screenshot3.png)
 
 ## CSV File
 
-![csv](src/Screenshot3.png)
+![csv](src/Screenshot2.png)
 ---
 ## Limitations
 - Only scans servers using HTTP/HTTPS protocols.
