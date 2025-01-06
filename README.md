@@ -1,6 +1,6 @@
 # CLOUDeye Scanner
 
-![Dashboard](src/screenshot.png)
+![Dashboard](src/Screenshot.png)
 
 ## Overview
 CLOUDeye Scanner is a powerful security tool designed to uncover misconfigurations, sensitive files, and exposed data on web servers. It is tailored for security professionals to identify potential vulnerabilities such as leaked API keys, exposed credentials, and other insecure configurations.
